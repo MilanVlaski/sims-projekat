@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/frame/MainFrame.java=UTF-8
+encoding//src/frame/menubar/menu/EntityMenu.java=UTF-8
+encoding//src/frame/menubar/menu/MenuModel.java=UTF-8
+encoding//src/frame/menubar/menu/MenuPomoc.java=UTF-8
+encoding//src/frame/menubar/menu/MenuUredjivanje.java=UTF-8
+encoding//src/frame/menubar/menu/TransformMenu.java=UTF-8
+encoding//src/frame/popupmenu/MenuPopUp.java=UTF-8
+encoding//src/frame/toolbar/HelpToolbar.java=UTF-8
+encoding//src/frame/toolbar/ModelToolbar.java=UTF-8
+encoding//src/listeners/CustomWindowListener.java=UTF-8
+encoding//src/listeners/menu/MenuModelActionListener.java=UTF-8
